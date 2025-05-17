@@ -1,0 +1,43 @@
+{
+    "managers": [
+        {
+            "telegram_login": "@team_lead_ivanov",
+            "employees": [
+                {
+                    "masterID": 1001,
+                    "name": "Анна Петрова"
+                },
+                {
+                    "masterID": 1002,
+                    "name": "Дмитрий Смирнов"
+                },
+                {
+                    "masterID": 1003,
+                    "name": "Ольга Козлова"
+                }
+            ]
+        },
+        {
+            "telegram_login": "@hr_manager",
+            "employees": [
+                {
+                    "masterID": 2001,
+                    "name": "Артем Васильев"
+                },
+                {
+                    "masterID": 2002,
+                    "name": "Екатерина Новикова"
+                }
+            ]
+        },
+        {
+            "telegram_login": "@test_manager",
+            "employees": [
+                {
+                    "masterID": 9999,
+                    "name": "Тестовый Сотрудник"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "sent_links": [
+        {
+            "url": "https://www.site.com/1",
+            "master_id": 1001,
+            "manager_login": "@team_lead_ivanov",
+            "date": "2024-05-24T12:34:56",
+            "employee_name": "Анна Петрова"
+        },
+        {
+            "url": "https://www.site.com/2",
+            "master_id": 1001,
+            "manager_login": "@team_lead_ivanov",
+            "date": "2024-05-24T12:34:56",
+            "employee_name": "Анна Петрова"
+        }
+    ]
+}
